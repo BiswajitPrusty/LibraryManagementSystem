@@ -9,7 +9,7 @@ h1{
 	
 }
 ul{
-	list-style-image: url("../images/bullet2.png");
+	list-style-image: url("bullet2.png");
 }
 
 li{
@@ -47,7 +47,7 @@ td{
 	
 }
 body{
-	background-image: url("../images/wallpaper.jpg");
+	background-image: url("wallpaper.jpg");
 }
 
 #remove{
