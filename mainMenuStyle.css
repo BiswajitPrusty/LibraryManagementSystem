@@ -1,0 +1,172 @@
+h1{
+	text-align:center;
+	color:aliceblue;
+	margin:30px;
+}
+
+#main{
+	margin:100px 0px 0px 1000px
+	
+}
+ul{
+	list-style-image: url("../images/bullet2.png");
+}
+
+li{
+	padding:10px 40px 20px 0px;
+	font-size: 25px;
+	color:beige;
+}
+
+td{
+	padding:10px 0px 10px 0px;
+}
+#box{
+	margin:0px 10px 0px 10px;
+	padding:2px;
+	height: 29px;
+	width: 250px;
+	border-radius: 7px;
+	border: solid black;
+
+	outline: 0px;
+	text-align: center;
+	font-size: 22px;
+	color:black;
+}
+#button{
+	margin:0px 0px 0px 10px;
+	
+	background-color: cyan;
+	border:solid black;
+	border-radius: 9px;
+	height: 40px;
+	width:90px;
+	font-size: 15px;
+	outline:0px;
+	
+}
+body{
+	background-image: url("../images/wallpaper.jpg");
+}
+
+#remove{
+	margin:100px 0px 0px 1000px
+}
+label{
+	font-size:18px;
+	margin:40px 0px 20px 10px;
+	color:white;
+	font-weight:bold;
+
+}
+
+#buttonRemove{
+	margin:0px 0px 0px 10px;
+	background-color: cyan;
+	border:solid black;
+	border-radius: 9px;
+	height: 35px;
+	width:125px;
+	font-size: 15px;
+	outline:0px;
+}
+#box2{
+	 margin:0px 10px 0px 10px;
+	padding:2px;
+	height: 25px;
+	width: 250px;
+	border-radius: 7px;
+	border: solid black;
+	
+	outline: 0px;
+	text-align: center;
+	font-size: 15px;
+	color:rgb(50, 48, 48);
+	 
+}
+
+#updateDiv{
+	margin:100px 0px 0px 1000px
+}
+
+fieldset{
+	padding: 0px 10px 30px 10px;
+	height:40px;
+	width:350px;
+	border:solid whitesmoke;
+
+}
+legend{
+	font-size:17px;
+	text-align:left;
+}
+
+#boxSearch{
+	border:0px;
+	outline:0px;
+	background:transparent;
+	height:25px;
+	width:350px;
+	padding: 0px 0px 5px 0px;
+	text-align:center;
+	font-size:20px;
+	font-weight:bold;
+	color:white;
+}
+
+#ButtonSearch{
+	margin:30px 0px 0px 10px;
+	background-color: cyan;
+	border:solid black;
+	border-radius: 7px;
+	height: 40px;
+	width:150px;
+	font-size: 17px;
+	outline:0px;
+	
+}
+#searchDiv{
+	margin:100px 0px 0px 1000px
+}
+
+#addDiv{
+	margin:100px 0px 30px 1000px
+}
+
+.addBookClass{
+	text-align:center;
+	margin:5px 0px 0px 30px;
+	height: 25px;
+	width: 200px;
+	font-size:17px;
+	border-radius: 8px;
+	border:solid black;
+	outline: 0px;
+	
+	/* border:0px;
+	outline:0px;
+	background:transparent;
+	height:25px;
+	width:350px;
+	padding: 0px 0px 0px 0px;
+	text-align:center;
+	
+	font-weight:bold;
+	color:white; */
+
+}
+#addBookButton{
+	margin:20px 0px 15px px;
+	background-color: cyan;
+	border:solid black;
+	border-radius: 9px;
+	height: 39px;
+	width:120px;
+	font-size: 17px;
+	outline:0px;
+	align:center
+}
+input{
+	box-shadow:0px 0px 5px white;
+}
